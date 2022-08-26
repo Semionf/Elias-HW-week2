@@ -1,0 +1,33 @@
+.myDiv {
+  display: flex;
+  background-color: blueviolet;
+  position: absolute;
+  bottom: 0;
+  height: 150px;
+  width: 100%;
+  padding-top: 20px;
+}
+
+li {
+  margin-left: 150px;
+  list-style: none;
+}
+
+.secondaryLi {
+  margin-top: 3px;
+  font-size: small;
+}
+
+.myLine {
+  background-color: red;
+  height: 1px;
+  width: 40px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
+img {
+  height: 20px;
+  width: 20px;
+  border-radius: 40px;
+}
